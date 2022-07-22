@@ -1,0 +1,27 @@
+body{
+    background-color: lavender;
+}
+
+#score{
+    margin-left: 10px;
+    font-size: 30px;
+    float: left;
+}
+
+#time{
+    margin-right: 10px;
+    font-size: 30px;
+    float: right;
+}
+
+#sketch_to_be_drawn{
+    color: crimson;
+    font-size: 30px;
+}
+
+canvas{
+    border: 5px;
+    border-color: black;
+    border-style:dashed;
+    background-color: white;
+}
